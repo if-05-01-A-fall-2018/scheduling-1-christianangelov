@@ -1,0 +1,14 @@
+1) when buying tickets you first have to order them, verify your order and then you recive them.
+In order get your ticket you first have to verify your email so that it can be sent to you. 
+the selling stage is blocked as long as the verifying is not finished
+ 
+
+2)
+
+G = 2, B = 5, A = 8, D = 12, C = 16, F = 21, H = 34, E = 55;
+
+ 2  + 7 + 15  + 27  + 43  +  64 +  98  + 153 = 409
+
+3)
+
+one process has a shorter time then the other.(one gets twice the time) 
